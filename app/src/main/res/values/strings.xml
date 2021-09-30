@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Secret Service</string>
+    <string name="android">Android</string>
+    <string name="secret_agency">Secret Agency</string>
+    <string name="welcome_agent">Welcome, Agent !</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="good_luck">Good luck!</string>
+    <string name="good_luck_agent">Good luck, Agent!</string>
+    <string name="see_you">See you later...</string>
+    <string name="wait">Wait, please!</string>
+    <string name="loading_mission">Loading mission data...</string>
+    <string name="do_you_really_want">Do you really want</string>
+    <string name="to_get_your_first_mission_now">to get your first mission now?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="your_first_secret_mission_is_to_reach">Your first secret mission is to reach</string>
+    <string name="specified_place_office_and_to_count_all">specified place (office) and to count</string>
+    <string name="android_gadgets_in_use_there"> all Android gadgets in use there.</string>
+    <string name="view_map">View Map</string>
+    <string name="view_photo">View Photo</string>
+    <string name="todo">TODO</string>
+    <string name="xxxxxxx">xxxxxxx</string>
+    <string name="count">and count all android devices</string>
+    <string name="in_use_there">in use there</string>
+    <string name="back">Back</string>
+    <string name="exit">Exit</string>
+    <string name="invalid_name">Invalid name or password!</string>
+    <string name="wrong_name">Wrong name or password</string>
+</resources>
